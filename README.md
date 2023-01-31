@@ -5,6 +5,9 @@
 
 ### GitHub Contributions
 
+<!-- making a dummy API call to cold start my vercel app -->
+<img src="https://prashant-shahi-readme-stats.vercel.app/api?username=prashant-shahi&show_icons=true&theme=react&border_color=61dafb&hide_border=true" height=0 width=0 />
+
 <p align=center>
     <div align=center>
         <img align="left" width=390
