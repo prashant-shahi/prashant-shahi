@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👨‍💻 Prashant here!
-- 📫 You can reach me: me@prashantshahi.dev
+- 📫 You can reach me@prashantshahi.dev
 
 ### GitHub Contributions
 
