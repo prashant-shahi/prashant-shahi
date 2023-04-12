@@ -4,8 +4,9 @@
 - 📫 You can reach me@prashantshahi.dev
 - 🔧 Maintainer of [SigNoz/signoz](https://github.com/SigNoz/signoz) and [SigNoz/charts](https://github.com/SigNoz/charts)
 - 🔙 Formerly:
-    -  [Dgraph Labs](https://dgraph.io/): Was maintainer of [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph), [dgraph-io/charts](https://github.com/dgraph-io/charts) and [dgraph-io/dgraph-js](https://github.com/dgraph-io/dgraph-js)
+    - [Dgraph Labs](https://dgraph.io/): Was maintainer of [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph), [dgraph-io/charts](https://github.com/dgraph-io/charts) and [dgraph-io/dgraph-js](https://github.com/dgraph-io/dgraph-js)
     - [🛵 Rapido](https://rapido.bike/)
+    - [IncredibleDevHQ/Incredible](https://github.com/IncredibleDevHQ/Incredible)
 - 🌏 OSS Contributions:
     - [kedacore/keda](https://github.com/kedacore/keda)
     - [esy/pesy](https://github.com/esy/pesy)
