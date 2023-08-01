@@ -34,6 +34,6 @@
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashant-shahi&count_private=true&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </div>
     <br>
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=prashant-shahi&theme=react-dark&bg_color=20232a&hide_border=true"
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=prashant-shahi&theme=react-dark&bg_color=20232a&hide_border=true"
         width="100%" />
 </p>
