@@ -8,6 +8,7 @@
     - [🛵 Rapido](https://rapido.bike/)
     - [IncredibleDevHQ/Incredible](https://github.com/IncredibleDevHQ/Incredible)
 - 🌏 OSS Contributions:
+    - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib)
     - [kedacore/keda](https://github.com/kedacore/keda)
     - [esy/pesy](https://github.com/esy/pesy)
     - [dnstwister/dnstwister](https://github.com/dnstwister/dnstwister)
