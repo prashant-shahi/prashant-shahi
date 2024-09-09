@@ -2,7 +2,7 @@
 
 - 👨‍💻 Prashant here!
 - 📫 You can reach me@prashantshahi.dev
-- 🔧 Maintainer of [SigNoz/signoz](https://github.com/SigNoz/signoz) and [SigNoz/charts](https://github.com/SigNoz/charts)
+- 🔧 Maintainer of [SigNoz/signoz](https://github.com/SigNoz/signoz), [SigNoz/charts](https://github.com/SigNoz/charts) and [SigNoz/terraform-provider-signoz](https://github.com/signoz/terraform-provider-signoz)
 - 🔙 Formerly:
     - [Dgraph Labs](https://dgraph.io/): Was maintainer of [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph), [dgraph-io/charts](https://github.com/dgraph-io/charts) and [dgraph-io/dgraph-js](https://github.com/dgraph-io/dgraph-js)
     - [🛵 Rapido](https://rapido.bike/)
